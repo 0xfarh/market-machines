@@ -1,0 +1,1 @@
+/Users/farhanrahman/Desktop/market-machines/projects/binary-primitives/api/target/debug/api: /Users/farhanrahman/Desktop/market-machines/projects/binary-primitives/api/src/main.rs /Users/farhanrahman/Desktop/market-machines/projects/binary-primitives/core/src/lib.rs
